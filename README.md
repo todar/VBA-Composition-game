@@ -1,12 +1,12 @@
 # VBA-Composition-game
 Trying to learn how to do composition in VBA. This is a testing example of what I have come up with so far.
 
-[Here](https://stackoverflow.com/q/56347881/8309643) is a link to my question on stackoverflow as to how to do Object Composition in VBA. 
+[Here](https://stackoverflow.com/q/56347881/8309643) is a link to my question on StackOverflow as to how to do Object Composition in VBA. 
 
 Here is what the game looks like so far:
 
-```vba
-'MOST EXCITING GAME OF ALL TIME!
+```vb
+'MOST EXCITING GAME OF ALL TIME! =)
 Private Sub StartGame()
     
     'CAN ONLY FIGHT (ONLY HAS STAMINA)
